@@ -59,8 +59,9 @@ Cuando se conectan resistores en paralelo,la resistencia total del circuito se r
 La corriente dispone de más de una trayectoria,el número de trayectorias para la corriente es igual al número de ramas en paralelo.
 La corriente total suministrada por la fuente se ha incrementado con la adición del resistor en paralelo,se supone que el voltaje de fuente permanece constante,un incremento de la corriente total suministrada por la fuente significa que la resistencia total ha disminuido,de acuerdo con la ley de Ohm.La conexión de más resistores en paralelo reducirá aún más la resistencia e incrementará la corriente total.
 
-![image](https://user-images.githubusercontent.com/93666408/143540515-57dabaab-9a60-4f3d-bd66-3844abb8a0fb.png)
+![image](https://user-images.githubusercontent.com/93666408/143540874-d434af31-1c91-4fea-a768-dbe1d9bac6af.png)
 
+## APLICACIÓN DE LA LEY DE OHM
 
 ## 3.EJERCICIOS
 ![0 1](https://user-images.githubusercontent.com/93681159/143501612-77f71a1d-395f-4a2d-b1a4-a3e3b76c6556.PNG)
