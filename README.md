@@ -18,6 +18,7 @@ Un circuito en serie proporciona solo una trayectoria para el paso de la corrien
 ## CORRIENTE EN UN CIRCUITO EN SERIE
 En este tipo de circuito la corriente es la misma a través de todos los puntos, por consiguiente la corriente es la misma en todos los resistores que están en serie con él.
 Tomar en cuenta que en cada punto que la corriente ingrese debe ser igual a la corriente que sale de ese punto.
+## RESISTENCIA TOTAL EN SERIE
 ![Customer Touchpoint Map](https://user-images.githubusercontent.com/93666408/143529598-ec61628d-e949-42cf-b5d5-92ca231b7c96.jpg)
 
 ## 3.EJERCICIOS
