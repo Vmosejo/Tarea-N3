@@ -85,8 +85,15 @@ La corriente total suministrada por la fuente se ha incrementado con la adición
 ![1 6](https://user-images.githubusercontent.com/93681159/143501665-7cda9900-e1ba-4917-a4ce-3b2d235938e6.PNG)
 ![1 7](https://user-images.githubusercontent.com/93681159/143501666-32f6fc23-24b7-4014-a2c6-874add0d58fd.PNG)
 ![1 8](https://user-images.githubusercontent.com/93681159/143501667-09672d28-d8f8-4aa2-95fe-8ee5c3a9a573.PNG)
-## 4.VIDEO
+![ee933629-082e-40e3-8daa-6a4d89ab7e6f](https://user-images.githubusercontent.com/93893919/143545650-c38d0c03-42ab-4959-a263-1c89fcbfe6c0.jpg)
+![b524d60d-82a4-445d-ad60-b1d01562e84b](https://user-images.githubusercontent.com/93893919/143545653-d0bf304a-7538-45c7-b626-3372c73154ef.jpg)
+![c53433b6-2187-48cc-aff5-25cc978c632b](https://user-images.githubusercontent.com/93893919/143545655-e9aa8b5e-8d6c-4807-a612-9f46735a28ac.jpg)
+![f3cf406c-1508-4f9f-bcd5-c62ecb8609e3](https://user-images.githubusercontent.com/93893919/143545657-88afb431-8e8d-4ac5-8d8d-af86bbd17678.jpg)
+![68dfd91e-1030-4b50-9acb-5f787f7be65e](https://user-images.githubusercontent.com/93893919/143545658-bd72001e-a6f0-4644-940a-95ca98f987cb.jpg)
+![ac014014-07fc-4444-8643-6fcaeb340a66](https://user-images.githubusercontent.com/93893919/143545659-470bdb7f-f643-431c-90fd-d1319dde68c5.jpg)
 
+## 4.VIDEO
+https://www.youtube.com/watch?v=_mDmKa08k44
 ## 5.CONCLUSIONES
 
 ## 6.BIBLIOGRAFÍA
