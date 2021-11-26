@@ -95,5 +95,7 @@ La corriente total suministrada por la fuente se ha incrementado con la adición
 ## 4.VIDEO
 https://www.youtube.com/watch?v=_mDmKa08k44
 ## 5.CONCLUSIONES
-
+  * La ley de ohm nos permite encontrar los valores que son necesarios para conocer un circuito, es por ello que es importante comprender la ley y cada una de sus aplicaciones     para cada uno de los casos que puedan existir.
+  * La ley de Kirchhoff sera indispensable para la realizacion de calculos de circuitos y los diferentes tipos que existen de estos mismo por ello se debe estudiar esta ley con    detenimiento para saber como aplicarla.
+  * Los capitulos estudiados en esta tarea seran base fundamental para los estudiantes de fundamentos de los circuitos electricos, es por esto que si quedo algun tema sin revisar o con un bajo nivel de comprension es necesario releer los capitulos para asi no tener vacios en la materia.
 ## 6.BIBLIOGRAFÍA
