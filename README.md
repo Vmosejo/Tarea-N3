@@ -43,7 +43,8 @@ Su falla más común es una abertura,un claro ejemplo es cuando un resistor o un
 Aplicar el método APM para localización de fallas.
 * Cortocircuito
 Ocurre cuando dos elementos conductores tocan un objeto extraño,tal como soldadura o por sujecion accidental de dos alambres que conectan dos secciones de un circuito.Situación particular en circuitos con una alta densidad de componentes.
-Cuando existe un corto una parte de la resistencia es evitada, toda la corriente pasa por el corto,con lo que se reduce la resistencia total.
+Cuando existe un corto una parte de la resistencia es evitada, toda la corriente pasa por el corto,con lo que se reduce la resistencia total
+
 ![image](https://user-images.githubusercontent.com/93666408/143535480-2237d8f4-7af9-4a44-b742-09c0b6a267b5.png)
 
 
