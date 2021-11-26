@@ -34,7 +34,11 @@ Tomar en cuenta que en cada punto que la corriente ingrese debe ser igual a la c
 En un punto del circuito el voltaje siempre se mide con respecto a otro punto.En la mayor parte del equipo electrónico se utiliza como tierra de referencia o común una gran área conductiva de una tarjeta de circuito impreso o la caja metálica.La tierra de referencia tiene un potencial de cero volts(0V) con respecto a todos los demás puntos del circuito relacionados.
 Como dato importante recordas que todos los puntos mostrados conectados a tierra en un circuito están conectados entre si mediante la tierra y eléctricamente son el mismo punto.
 
+
 ![image](https://user-images.githubusercontent.com/93666408/143535060-2b3b3356-e94f-49c5-bd34-3ef021ae4b67.png)
+
+![image](https://user-images.githubusercontent.com/93666408/143535480-2237d8f4-7af9-4a44-b742-09c0b6a267b5.png)
+
 
 
 ## 3.EJERCICIOS
