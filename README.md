@@ -31,7 +31,10 @@ Tomar en cuenta que en cada punto que la corriente ingrese debe ser igual a la c
 ## POTENCIA EN CIRCUITOS EN SERIE
 ![5 8](https://user-images.githubusercontent.com/93666408/143533781-f622fe49-7e96-423b-a859-137211b979fc.jpg)
 ## MEDICIONES DE VOLTAJE
-En un punto del circuito el voltaje siempre se mide con respecto a otro punto.Este punto de referencia se llama tierra o punto común,en la mayor parte del equipo electronico 
+En un punto del circuito el voltaje siempre se mide con respecto a otro punto.En la mayor parte del equipo electrónico se utiliza como tierra de referencia o común una gran área conductiva de una tarjeta de circuito impreso o la caja metálica.La tierra de referencia tiene un potencial de cero volts(0V) con respecto a todos los demás puntos del circuito relacionados.
+Como dato importante recordas que todos los puntos mostrados conectados a tierra en un circuito están conectados entre si mediante la tierra y eléctricamente son el mismo punto.
+![image](https://user-images.githubusercontent.com/93666408/143534912-bd556917-2c11-4f0d-ba8f-43790bb55568.png)
+
 ## 3.EJERCICIOS
 ![0 1](https://user-images.githubusercontent.com/93681159/143501612-77f71a1d-395f-4a2d-b1a4-a3e3b76c6556.PNG)
 ![0 2](https://user-images.githubusercontent.com/93681159/143501616-b1335911-76c1-438b-a5b9-d1a13958b31f.PNG)
