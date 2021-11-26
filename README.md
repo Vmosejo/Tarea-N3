@@ -32,6 +32,8 @@ Tomar en cuenta que en cada punto que la corriente ingrese debe ser igual a la c
 ![image](https://user-images.githubusercontent.com/93666408/143540608-f94960e5-2c07-4ceb-bc58-a38a3e43e6aa.png)
 
 ## DIVISORES DE VOLTAJE
+![image](https://user-images.githubusercontent.com/93666408/143547224-ce427f37-508b-477a-b552-8d346619d01e.png)
+
 
 ## POTENCIA EN CIRCUITOS EN SERIE
 ![5 8](https://user-images.githubusercontent.com/93666408/143533781-f622fe49-7e96-423b-a859-137211b979fc.jpg)
@@ -67,6 +69,14 @@ La corriente total suministrada por la fuente se ha incrementado con la adición
 
 ![image](https://user-images.githubusercontent.com/93666408/143546835-1df72195-7172-44b8-bff7-7d41fcd99808.png)
 
+## LOCALIZACIÓN DE FALLAS
+RAMAS ABIERTAS
+Si se conecta un interruptor en una rama de un circuito en paralelo,el interruptor puede abrir o cerrar una trayectoria.Cuando el interruptor se cierra está en paralelo.La corriente pasa por ambos resistores si el interruptor se abre se retira efectivamente del circuito.
+Cuando una rama en paralelo se abre, la resistencia total se incrementa, la corriente total
+disminuye, y la misma corriente continúa fluyendo por cada una de las trayectorias
+en paralelo restantes.
+La disminución de la corriente total es igual a la cantidad de corriente que previamente circulaba
+por la rama abierta. Las demás corrientes de rama no cambian.
 
 ## 3.EJERCICIOS
 ![0 1](https://user-images.githubusercontent.com/93681159/143501612-77f71a1d-395f-4a2d-b1a4-a3e3b76c6556.PNG)
