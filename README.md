@@ -73,6 +73,13 @@ Cuando existe un corto una parte de la resistencia es evitada, toda la corriente
 ![1 6](https://user-images.githubusercontent.com/93681159/143501665-7cda9900-e1ba-4917-a4ce-3b2d235938e6.PNG)
 ![1 7](https://user-images.githubusercontent.com/93681159/143501666-32f6fc23-24b7-4014-a2c6-874add0d58fd.PNG)
 ![1 8](https://user-images.githubusercontent.com/93681159/143501667-09672d28-d8f8-4aa2-95fe-8ee5c3a9a573.PNG)
+![b524d60d-82a4-445d-ad60-b1d01562e84b](https://user-images.githubusercontent.com/93893919/143540285-77113dc7-b3f5-4a6f-9d32-77fe69b317f1.jpg)
+![c53433b6-2187-48cc-aff5-25cc978c632b](https://user-images.githubusercontent.com/93893919/143540289-e0211c5b-0894-4027-8090-f5bf1f9c4d1a.jpg)
+![f3cf406c-1508-4f9f-bcd5-c62ecb8609e3](https://user-images.githubusercontent.com/93893919/143540290-ed560bb4-f40e-407f-b28e-c5f3773913e3.jpg)
+![68dfd91e-1030-4b50-9acb-5f787f7be65e](https://user-images.githubusercontent.com/93893919/143540291-9c54aeee-365d-48b7-ad31-278b30874a78.jpg)
+![ac014014-07fc-4444-8643-6fcaeb340a66](https://user-images.githubusercontent.com/93893919/143540293-c82f5cb4-f220-4096-90de-c63b666a55aa.jpg)
+![ee933629-082e-40e3-8daa-6a4d89ab7e6f](https://user-images.githubusercontent.com/93893919/143540294-fbeb89a7-c2e6-4897-b1ed-e7d4e192f3c4.jpg)
+
 ## 4.VIDEO
 
 ## 5.CONCLUSIONES
