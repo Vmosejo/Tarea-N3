@@ -65,6 +65,8 @@ La corriente total suministrada por la fuente se ha incrementado con la adición
 ## APLICACIÓN DE LA LEY DE OHM
 ![6 7](https://user-images.githubusercontent.com/93666408/143545050-51c1922b-7c37-4342-b529-5135e9f79ac3.jpg)
 
+![image](https://user-images.githubusercontent.com/93666408/143546835-1df72195-7172-44b8-bff7-7d41fcd99808.png)
+
 
 ## 3.EJERCICIOS
 ![0 1](https://user-images.githubusercontent.com/93681159/143501612-77f71a1d-395f-4a2d-b1a4-a3e3b76c6556.PNG)
