@@ -20,7 +20,18 @@ En este tipo de circuito la corriente es la misma a través de todos los puntos,
 Tomar en cuenta que en cada punto que la corriente ingrese debe ser igual a la corriente que sale de ese punto.
 ## RESISTENCIA TOTAL EN SERIE
 ![Customer Touchpoint Map](https://user-images.githubusercontent.com/93666408/143529598-ec61628d-e949-42cf-b5d5-92ca231b7c96.jpg)
+## APLICACIÓN DE LA LEY DE OHM
 
+## FUENTES DE VOLTAJE EN SERIE
+
+## LEY DE VOLTAJE DE KIRCHHOFF
+
+## DIVISORES DE VOLTAJE
+
+## POTENCIA EN CIRCUITOS EN SERIE
+![5 8](https://user-images.githubusercontent.com/93666408/143533781-f622fe49-7e96-423b-a859-137211b979fc.jpg)
+## MEDICIONES DE VOLTAJE
+En un punto del circuito el voltaje siempre se mide con respecto a otro punto.Este punto de referencia se llama tierra o punto común,en la mayor parte del equipo electronico 
 ## 3.EJERCICIOS
 ![0 1](https://user-images.githubusercontent.com/93681159/143501612-77f71a1d-395f-4a2d-b1a4-a3e3b76c6556.PNG)
 ![0 2](https://user-images.githubusercontent.com/93681159/143501616-b1335911-76c1-438b-a5b9-d1a13958b31f.PNG)
