@@ -29,6 +29,8 @@ Tomar en cuenta que en cada punto que la corriente ingrese debe ser igual a la c
 
 ## LEY DE VOLTAJE DE KIRCHHOFF
 
+![image](https://user-images.githubusercontent.com/93666408/143540608-f94960e5-2c07-4ceb-bc58-a38a3e43e6aa.png)
+
 ## DIVISORES DE VOLTAJE
 
 ## POTENCIA EN CIRCUITOS EN SERIE
@@ -53,6 +55,12 @@ Cuando existe un corto una parte de la resistencia es evitada, toda la corriente
 ## CAPÍTULO 6-CIRCUITOS EN PARALELO
 ![6 3](https://user-images.githubusercontent.com/93666408/143539340-655ea53b-b9d1-4e32-b725-e45ed28202a9.jpg)
 ## RESISTENCIA TOTAL EN PARALELO
+Cuando se conectan resistores en paralelo,la resistencia total del circuito se reduce.Siempre es menor que el valor del resistor más pequeño.
+La corriente dispone de más de una trayectoria,el número de trayectorias para la corriente es igual al número de ramas en paralelo.
+La corriente total suministrada por la fuente se ha incrementado con la adición del resistor en paralelo,se supone que el voltaje de fuente permanece constante,un incremento de la corriente total suministrada por la fuente significa que la resistencia total ha disminuido,de acuerdo con la ley de Ohm.La conexión de más resistores en paralelo reducirá aún más la resistencia e incrementará la corriente total.
+
+![image](https://user-images.githubusercontent.com/93666408/143540515-57dabaab-9a60-4f3d-bd66-3844abb8a0fb.png)
+
 
 ## 3.EJERCICIOS
 ![0 1](https://user-images.githubusercontent.com/93681159/143501612-77f71a1d-395f-4a2d-b1a4-a3e3b76c6556.PNG)
@@ -73,13 +81,6 @@ Cuando existe un corto una parte de la resistencia es evitada, toda la corriente
 ![1 6](https://user-images.githubusercontent.com/93681159/143501665-7cda9900-e1ba-4917-a4ce-3b2d235938e6.PNG)
 ![1 7](https://user-images.githubusercontent.com/93681159/143501666-32f6fc23-24b7-4014-a2c6-874add0d58fd.PNG)
 ![1 8](https://user-images.githubusercontent.com/93681159/143501667-09672d28-d8f8-4aa2-95fe-8ee5c3a9a573.PNG)
-![b524d60d-82a4-445d-ad60-b1d01562e84b](https://user-images.githubusercontent.com/93893919/143540285-77113dc7-b3f5-4a6f-9d32-77fe69b317f1.jpg)
-![c53433b6-2187-48cc-aff5-25cc978c632b](https://user-images.githubusercontent.com/93893919/143540289-e0211c5b-0894-4027-8090-f5bf1f9c4d1a.jpg)
-![f3cf406c-1508-4f9f-bcd5-c62ecb8609e3](https://user-images.githubusercontent.com/93893919/143540290-ed560bb4-f40e-407f-b28e-c5f3773913e3.jpg)
-![68dfd91e-1030-4b50-9acb-5f787f7be65e](https://user-images.githubusercontent.com/93893919/143540291-9c54aeee-365d-48b7-ad31-278b30874a78.jpg)
-![ac014014-07fc-4444-8643-6fcaeb340a66](https://user-images.githubusercontent.com/93893919/143540293-c82f5cb4-f220-4096-90de-c63b666a55aa.jpg)
-![ee933629-082e-40e3-8daa-6a4d89ab7e6f](https://user-images.githubusercontent.com/93893919/143540294-fbeb89a7-c2e6-4897-b1ed-e7d4e192f3c4.jpg)
-
 ## 4.VIDEO
 
 ## 5.CONCLUSIONES
