@@ -119,3 +119,4 @@ https://www.youtube.com/watch?v=_mDmKa08k44
   * La ley de Kirchhoff sera indispensable para la realizacion de calculos de circuitos y los diferentes tipos que existen de estos mismo por ello se debe estudiar esta ley con    detenimiento para saber como aplicarla.
   * Los capitulos estudiados en esta tarea seran base fundamental para los estudiantes de fundamentos de los circuitos electricos, es por esto que si quedo algun tema sin revisar o con un bajo nivel de comprension es necesario releer los capitulos para asi no tener vacios en la materia.
 ## 6.BIBLIOGRAFÍA
+* Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
