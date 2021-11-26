@@ -36,7 +36,14 @@ Como dato importante recordas que todos los puntos mostrados conectados a tierra
 
 
 ![image](https://user-images.githubusercontent.com/93666408/143535060-2b3b3356-e94f-49c5-bd34-3ef021ae4b67.png)
-
+## LOCALIZACIÓN DE FALLAS
+Los resistores o contactos abiertos y un punto en cortocircuito con otros son problemas comunes que se presentan en todos los circuitos,incluidos los circuitos en serie.
+* Circuito Abierto
+Su falla más común es una abertura,un claro ejemplo es cuando un resistor o un foco se funden,provocan una ruptura en la trayectoria de la corriente y crean un circuito abierto.En un circuito en serie,una abertura impide el paso de la corriente.
+Aplicar el método APM para localización de fallas.
+* Cortocircuito
+Ocurre cuando dos elementos conductores tocan un objeto extraño,tal como soldadura o por sujecion accidental de dos alambres que conectan dos secciones de un circuito.Situación particular en circuitos con una alta densidad de componentes.
+Cuando existe un corto una parte de la resistencia es evitada, toda la corriente pasa por el corto,con lo que se reduce la resistencia total.
 ![image](https://user-images.githubusercontent.com/93666408/143535480-2237d8f4-7af9-4a44-b742-09c0b6a267b5.png)
 
 
