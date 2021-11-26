@@ -21,8 +21,11 @@ Tomar en cuenta que en cada punto que la corriente ingrese debe ser igual a la c
 ## RESISTENCIA TOTAL EN SERIE
 ![Customer Touchpoint Map](https://user-images.githubusercontent.com/93666408/143529598-ec61628d-e949-42cf-b5d5-92ca231b7c96.jpg)
 ## APLICACIÓN DE LA LEY DE OHM
+![image](https://user-images.githubusercontent.com/93666408/143536908-35148283-9148-4382-bbd4-6fac57f72b33.png)
 
 ## FUENTES DE VOLTAJE EN SERIE
+![image](https://user-images.githubusercontent.com/93666408/143539301-9f545205-b138-41d3-ae25-82816f104347.png)
+
 
 ## LEY DE VOLTAJE DE KIRCHHOFF
 
@@ -47,7 +50,9 @@ Cuando existe un corto una parte de la resistencia es evitada, toda la corriente
 
 ![image](https://user-images.githubusercontent.com/93666408/143535480-2237d8f4-7af9-4a44-b742-09c0b6a267b5.png)
 
-
+## CAPÍTULO 6-CIRCUITOS EN PARALELO
+![6 3](https://user-images.githubusercontent.com/93666408/143539340-655ea53b-b9d1-4e32-b725-e45ed28202a9.jpg)
+## RESISTENCIA TOTAL EN PARALELO
 
 ## 3.EJERCICIOS
 ![0 1](https://user-images.githubusercontent.com/93681159/143501612-77f71a1d-395f-4a2d-b1a4-a3e3b76c6556.PNG)
