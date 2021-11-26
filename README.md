@@ -78,6 +78,14 @@ en paralelo restantes.
 La disminución de la corriente total es igual a la cantidad de corriente que previamente circulaba
 por la rama abierta. Las demás corrientes de rama no cambian.
 
+![image](https://user-images.githubusercontent.com/93666408/143547952-7c411898-86f4-4714-b6b9-dcb2d9be6029.png)
+
+Localización de una rama abierta utilizando medición de corriente
+En un circuito en paralelo con una supuesta rama abierta, se puede medir la corriente total para
+localizar la abertura. Cuando un resistor en paralelo se abre, la corriente total IT siempre es menor
+que su valor normal. Una vez conocidos IT y el voltaje a través de las ramas, unos cuantos
+cálculos determinarán el resistor abierto cuando todos los resistores son de diferentes valores de
+resistencia.
 ## 3.EJERCICIOS
 ![0 1](https://user-images.githubusercontent.com/93681159/143501612-77f71a1d-395f-4a2d-b1a4-a3e3b76c6556.PNG)
 ![0 2](https://user-images.githubusercontent.com/93681159/143501616-b1335911-76c1-438b-a5b9-d1a13958b31f.PNG)
